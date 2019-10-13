@@ -1,0 +1,10 @@
+**/target/
+logs/
+.idea
+*.iml
+/bin/
+
+
+#vscode
+.vscode/settings.json
+.project
